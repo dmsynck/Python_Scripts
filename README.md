@@ -1,2 +1,2 @@
 # Python_Scripts
-A place to showcase some of my Python scripts.
+A place to store / showcase my Python scripts.
