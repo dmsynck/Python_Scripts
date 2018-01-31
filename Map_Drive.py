@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Filename: Map_Drive.py
 # Purpose: Python script to map a drive letter to a UNC path
 # Last file change: 02 November, 2017
